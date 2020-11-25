@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 one of text
+=======
+create a conflict
+>>>>>>> new1
